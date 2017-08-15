@@ -1,4 +1,4 @@
-##React Native Base Project
+#React Native Base Project
 
 Can be used as a starting point for app. Has loading, login, sign up and dashboard.
 
